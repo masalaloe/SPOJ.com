@@ -1,2 +1,2 @@
 # SPOJ.com
-Collection of SPOJ.com solved problems
+Collections of SPOJ.com solved problems
